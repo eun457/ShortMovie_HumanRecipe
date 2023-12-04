@@ -5293,12 +5293,7 @@ PrefabInstance:
     - target: {fileID: 7130844618117541687, guid: 99018978581df3843990ede8854a6c5a,
         type: 3}
       propertyPath: m_WarningMessage
-      value: "\nBinding warning: Some generic clip(s) animate transforms that are
-        already bound by a Humanoid avatar. These transforms can only be changed
-        by Humanoid clips.\n\tTransform 'index_03_l'\n\tTransform 'lowerarm_l'\n\tTransform
-        'root'\n\tTransform 'pinky_03_l'\n\tTransform 'neck_01'\n\tTransform 'pinky_03_r'\n\tTransform
-        'clavicle_l'\n\tTransform 'ring_02_l'\n\tTransform 'ball_l'\n\tTransform
-        'hand_l'\n\tand more ..."
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -5394,6 +5389,12 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99018978581df3843990ede8854a6c5a, type: 3}
+--- !u!95 &839533454 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 7130844618117541687, guid: 99018978581df3843990ede8854a6c5a,
+    type: 3}
+  m_PrefabInstance: {fileID: 839533453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &890405840
 GameObject:
   m_ObjectHideFlags: 0
@@ -11778,6 +11779,57 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &1625171386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1625171388}
+  - component: {fileID: 1625171387}
+  m_Layer: 0
+  m_Name: Timeline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!320 &1625171387
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1625171386}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 86a7facced4ab5a4cae428e119fd3016, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -2209769793330866465, guid: 86a7facced4ab5a4cae428e119fd3016, type: 2}
+    value: {fileID: 839533454}
+  m_ExposedReferences:
+    m_References: []
+--- !u!4 &1625171388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1625171386}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1644710539
 GameObject:
   m_ObjectHideFlags: 0
@@ -12329,8 +12381,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1823688464}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.40400243, y: -0.3349337, z: -0.16189429, w: -0.8356983}
-  m_LocalPosition: {x: -3.1712885, y: 0.63163567, z: 1.6413002}
+  m_LocalRotation: {x: 0.009905488, y: 0.45107552, z: -0.0050136973, w: 0.8924168}
+  m_LocalPosition: {x: -1.9584589, y: 1.1339259, z: 2.8228602}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15242,3 +15294,4 @@ SceneRoots:
   - {fileID: 3132819636733959880}
   - {fileID: 8220723407794474015}
   - {fileID: 6842864563761865235}
+  - {fileID: 1625171388}
