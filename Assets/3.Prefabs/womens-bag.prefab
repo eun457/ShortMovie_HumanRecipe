@@ -10,18 +10,33 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.900053
+      value: -1.683
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.9964004
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.9986057
+      value: 4.252
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
         type: 3}
@@ -58,11 +73,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6449265365447941941, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d909fee99e8ec7408cfb58cd0af8494, type: 2}
+    - target: {fileID: -3671621003033716539, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d909fee99e8ec7408cfb58cd0af8494, type: 2}
     - target: {fileID: 919132149155446097, guid: 1f8878ccdf891c24ead5ef933a3afadf,
         type: 3}
       propertyPath: m_Name
       value: womens-bag
       objectReference: {fileID: 0}
+    - target: {fileID: 2602803679331181007, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d909fee99e8ec7408cfb58cd0af8494, type: 2}
+    - target: {fileID: 8001996622813921699, guid: 1f8878ccdf891c24ead5ef933a3afadf,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d909fee99e8ec7408cfb58cd0af8494, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
