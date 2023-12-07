@@ -653,6 +653,7 @@ PlayableDirector:
     - 3a8420ae09d6c294ca771c18ff769435: {fileID: 0}
     - 3db83ce2d48bd8244a58eca79de50f89: {fileID: 317220887}
     - 416230a1d332bd0458b55088d2007df1: {fileID: 194093452}
+    - b2ab69df0f640324c8f256e6b5fc5f60: {fileID: 317375509}
     - 36d840704f995524bb3ffecf767dde5a: {fileID: 758783382}
     - cef19efbc4915b347b613b0bd1e85911: {fileID: 876782867}
     - 866d8935b2297064eaf79f6b2dd44d90: {fileID: 339476211}
@@ -664,6 +665,7 @@ PlayableDirector:
     - f5ca8ea2a95c6f1408179cb696c71828: {fileID: 927339604}
     - 32c9ec76f227f394dbdc77598fb82644: {fileID: 1761524541}
     - c446fc5aeb798d94faef5d4a471de6eb: {fileID: 1857005845}
+    - f19e54f8ba426fd4ab4eb2b7d90281cf: {fileID: 317375509}
     - cfe2f539c4e7de84981833dca6c33cdb: {fileID: 1857005845}
     - 0a3180d5ff1ef334d80eb88c1fa03b31: {fileID: 780522542}
     - 0fb5b9f4fa282d946a2cb09e6039c385: {fileID: 1615028509}
@@ -3287,7 +3289,7 @@ GameObject:
   - component: {fileID: 317375509}
   - component: {fileID: 317375508}
   m_Layer: 0
-  m_Name: H_OSturn_25
+  m_Name: H_BS_25
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21469,7 +21471,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 21.69
+  field of view: 51.2
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -21495,8 +21497,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1823688464}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.094366334, y: 0.7007817, z: -0.09437865, w: 0.70078003}
-  m_LocalPosition: {x: -5.174, y: 1.92, z: 3.239}
+  m_LocalRotation: {x: 0.013211589, y: 0.19120955, z: -0.020764945, w: 0.9812407}
+  m_LocalPosition: {x: 0.426, y: 1.607, z: 3.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
