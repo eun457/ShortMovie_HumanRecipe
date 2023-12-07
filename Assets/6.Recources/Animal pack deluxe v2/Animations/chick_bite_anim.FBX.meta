@@ -1,72 +1,194 @@
 fileFormatVersion: 2
 guid: a10f164132fefd046970c4b0e822e0c8
-timeCreated: 1554214372
-licenseType: Store
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Allosaur
-    100002: AllosaurHead
-    100004: AllosaurHeadBone001
-    100006: AllosaurHeadBone002
-    100008: AllosaurLLeg1
-    100010: AllosaurLLeg2
-    100012: AllosaurLLegDigit11
-    100014: AllosaurLLegDigit12
-    100016: AllosaurLLegPalm
-    100018: AllosaurLLegPlatform
-    100020: AllosaurNeck1
-    100022: AllosaurNeck2
-    100024: AllosaurPelvis
-    100026: AllosaurRibcage
-    100028: AllosaurRLeg1
-    100030: AllosaurRLeg2
-    100032: AllosaurRLegDigit11
-    100034: AllosaurRLegDigit12
-    100036: AllosaurRLegPalm
-    100038: AllosaurRLegPlatform
-    100040: AllosaurSpine1
-    100042: AllosaurSpine2
-    100044: AllosaurSpine3
-    100046: AllosaurSpine4
-    100048: AllosaurTail01
-    100050: AllosaurTail02
-    100052: AllosaurTail03
-    100054: //RootNode
-    100056: RetopoGroup1_0
-    400000: Allosaur
-    400002: AllosaurHead
-    400004: AllosaurHeadBone001
-    400006: AllosaurHeadBone002
-    400008: AllosaurLLeg1
-    400010: AllosaurLLeg2
-    400012: AllosaurLLegDigit11
-    400014: AllosaurLLegDigit12
-    400016: AllosaurLLegPalm
-    400018: AllosaurLLegPlatform
-    400020: AllosaurNeck1
-    400022: AllosaurNeck2
-    400024: AllosaurPelvis
-    400026: AllosaurRibcage
-    400028: AllosaurRLeg1
-    400030: AllosaurRLeg2
-    400032: AllosaurRLegDigit11
-    400034: AllosaurRLegDigit12
-    400036: AllosaurRLegPalm
-    400038: AllosaurRLegPlatform
-    400040: AllosaurSpine1
-    400042: AllosaurSpine2
-    400044: AllosaurSpine3
-    400046: AllosaurSpine4
-    400048: AllosaurTail01
-    400050: AllosaurTail02
-    400052: AllosaurTail03
-    400054: //RootNode
-    400056: RetopoGroup1_0
-    4300000: RetopoGroup1_0
-    7400000: Chick_bite
-    9500000: //RootNode
-    13700000: RetopoGroup1_0
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Allosaur
+  - first:
+      1: 100002
+    second: AllosaurHead
+  - first:
+      1: 100004
+    second: AllosaurHeadBone001
+  - first:
+      1: 100006
+    second: AllosaurHeadBone002
+  - first:
+      1: 100008
+    second: AllosaurLLeg1
+  - first:
+      1: 100010
+    second: AllosaurLLeg2
+  - first:
+      1: 100012
+    second: AllosaurLLegDigit11
+  - first:
+      1: 100014
+    second: AllosaurLLegDigit12
+  - first:
+      1: 100016
+    second: AllosaurLLegPalm
+  - first:
+      1: 100018
+    second: AllosaurLLegPlatform
+  - first:
+      1: 100020
+    second: AllosaurNeck1
+  - first:
+      1: 100022
+    second: AllosaurNeck2
+  - first:
+      1: 100024
+    second: AllosaurPelvis
+  - first:
+      1: 100026
+    second: AllosaurRibcage
+  - first:
+      1: 100028
+    second: AllosaurRLeg1
+  - first:
+      1: 100030
+    second: AllosaurRLeg2
+  - first:
+      1: 100032
+    second: AllosaurRLegDigit11
+  - first:
+      1: 100034
+    second: AllosaurRLegDigit12
+  - first:
+      1: 100036
+    second: AllosaurRLegPalm
+  - first:
+      1: 100038
+    second: AllosaurRLegPlatform
+  - first:
+      1: 100040
+    second: AllosaurSpine1
+  - first:
+      1: 100042
+    second: AllosaurSpine2
+  - first:
+      1: 100044
+    second: AllosaurSpine3
+  - first:
+      1: 100046
+    second: AllosaurSpine4
+  - first:
+      1: 100048
+    second: AllosaurTail01
+  - first:
+      1: 100050
+    second: AllosaurTail02
+  - first:
+      1: 100052
+    second: AllosaurTail03
+  - first:
+      1: 100054
+    second: //RootNode
+  - first:
+      1: 100056
+    second: RetopoGroup1_0
+  - first:
+      4: 400000
+    second: Allosaur
+  - first:
+      4: 400002
+    second: AllosaurHead
+  - first:
+      4: 400004
+    second: AllosaurHeadBone001
+  - first:
+      4: 400006
+    second: AllosaurHeadBone002
+  - first:
+      4: 400008
+    second: AllosaurLLeg1
+  - first:
+      4: 400010
+    second: AllosaurLLeg2
+  - first:
+      4: 400012
+    second: AllosaurLLegDigit11
+  - first:
+      4: 400014
+    second: AllosaurLLegDigit12
+  - first:
+      4: 400016
+    second: AllosaurLLegPalm
+  - first:
+      4: 400018
+    second: AllosaurLLegPlatform
+  - first:
+      4: 400020
+    second: AllosaurNeck1
+  - first:
+      4: 400022
+    second: AllosaurNeck2
+  - first:
+      4: 400024
+    second: AllosaurPelvis
+  - first:
+      4: 400026
+    second: AllosaurRibcage
+  - first:
+      4: 400028
+    second: AllosaurRLeg1
+  - first:
+      4: 400030
+    second: AllosaurRLeg2
+  - first:
+      4: 400032
+    second: AllosaurRLegDigit11
+  - first:
+      4: 400034
+    second: AllosaurRLegDigit12
+  - first:
+      4: 400036
+    second: AllosaurRLegPalm
+  - first:
+      4: 400038
+    second: AllosaurRLegPlatform
+  - first:
+      4: 400040
+    second: AllosaurSpine1
+  - first:
+      4: 400042
+    second: AllosaurSpine2
+  - first:
+      4: 400044
+    second: AllosaurSpine3
+  - first:
+      4: 400046
+    second: AllosaurSpine4
+  - first:
+      4: 400048
+    second: AllosaurTail01
+  - first:
+      4: 400050
+    second: AllosaurTail02
+  - first:
+      4: 400052
+    second: AllosaurTail03
+  - first:
+      4: 400054
+    second: //RootNode
+  - first:
+      4: 400056
+    second: RetopoGroup1_0
+  - first:
+      43: 4300000
+    second: RetopoGroup1_0
+  - first:
+      74: 7400000
+    second: Chick_bite
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: RetopoGroup1_0
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -74,7 +196,7 @@ ModelImporter:
       name: default
     second: {fileID: 2100000, guid: dbaa01dde7fb5b84bb2876b1651dbb87, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -83,6 +205,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -91,6 +214,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -102,6 +226,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Chick_bite
       takeName: Take 001
+      internalID: 0
       firstFrame: 0
       lastFrame: 16
       wrapMode: 0
@@ -110,7 +235,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -133,30 +258,49 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -166,14 +310,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

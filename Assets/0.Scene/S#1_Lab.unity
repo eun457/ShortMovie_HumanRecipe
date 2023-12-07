@@ -124,18 +124,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!95 &24040650 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 656220899955721046, guid: 7a6dd01a9e9f897408011b9d3fa2632a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1605894159950899092}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &359213575 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 260882962088713898, guid: 7a6dd01a9e9f897408011b9d3fa2632a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1605894159950899092}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &432432459
 GameObject:
   m_ObjectHideFlags: 0
@@ -280,12 +268,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!95 &887878601 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 1108683632019170268, guid: 7a6dd01a9e9f897408011b9d3fa2632a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1605894159950899092}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1304533379
 GameObject:
   m_ObjectHideFlags: 0
@@ -842,14 +824,8 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 1629005568685312633, guid: ede6202535355a54ba195ff9bba931d5, type: 2}
     value: {fileID: 1823688469}
-  - key: {fileID: -1866166446932502156, guid: ede6202535355a54ba195ff9bba931d5, type: 2}
-    value: {fileID: 2027021317}
-  - key: {fileID: -4497781779882191617, guid: ede6202535355a54ba195ff9bba931d5, type: 2}
-    value: {fileID: 24040650}
-  - key: {fileID: 3870279633068141459, guid: ede6202535355a54ba195ff9bba931d5, type: 2}
-    value: {fileID: 359213575}
-  - key: {fileID: -9012055321513555556, guid: ede6202535355a54ba195ff9bba931d5, type: 2}
-    value: {fileID: 887878601}
+  - key: {fileID: -7296026386560338386, guid: ede6202535355a54ba195ff9bba931d5, type: 2}
+    value: {fileID: 1304533380}
   m_ExposedReferences:
     m_References:
     - 6c16ad601381b254790a103a027f5630: {fileID: 1304533381}
@@ -916,12 +892,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &2027021317 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 8965704610184132233, guid: 7a6dd01a9e9f897408011b9d3fa2632a,
-    type: 3}
-  m_PrefabInstance: {fileID: 1605894159950899092}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1605894159950899092
 PrefabInstance:
   m_ObjectHideFlags: 0
