@@ -13760,6 +13760,7 @@ PlayableDirector:
     - 3012f16dadb33c64eacaab6bd24e41b8: {fileID: 508920654}
     - 9e2e3c6e395d65a40831d4e94f31e2ca: {fileID: 2011782970}
     - 7d2a9ef2e1ff2e745bd75f4d933b8b46: {fileID: 2011782970}
+    - 8b58e7044e7f7664a919c52aaf3225ab: {fileID: 2011782970}
     - 61c3dbd0540cbf340ac22458e286b1ec: {fileID: 508920654}
     - d20545bf53a4d0745acbfc76a7f40cb9: {fileID: 2011782970}
     - c49c07246cc800746bf13061bf600c82: {fileID: 615075112}
@@ -15865,7 +15866,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.1663169
+  m_Intensity: 0.10026761
   m_Range: 0.75
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
