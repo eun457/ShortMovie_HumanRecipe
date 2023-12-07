@@ -13000,7 +13000,7 @@ Transform:
   m_GameObject: {fileID: 1151620819}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.298, y: 1.1023, z: 3.451}
+  m_LocalPosition: {x: -1.298, y: 1.157, z: 3.44}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13018,7 +13018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Intensity: 1.26
+  m_Intensity: 1.29
   m_EnableSpotReflector: 1
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
@@ -13034,7 +13034,7 @@ MonoBehaviour:
   m_ShapeWidth: 0.5
   m_ShapeHeight: 0.5
   m_AspectRatio: 1
-  m_ShapeRadius: 0.16
+  m_ShapeRadius: 0.15
   m_SoftnessScale: 1
   m_UseCustomSpotLightShadowCone: 0
   m_CustomSpotLightShadowCone: 30
@@ -13140,8 +13140,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.10026761
-  m_Range: 0.75
+  m_Intensity: 0.102654934
+  m_Range: 1.9
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -13188,7 +13188,7 @@ Light:
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0.16
+  m_ShadowRadius: 0.15
   m_ShadowAngle: 0
 --- !u!1 &1155751792
 GameObject:
@@ -13745,6 +13745,8 @@ PlayableDirector:
     value: {fileID: 1419297002}
   - key: {fileID: -5209464705115778215, guid: 5dd54a18d0f17f748b180549f4c41733, type: 2}
     value: {fileID: 1151620819}
+  - key: {fileID: -5901332798724160096, guid: 5dd54a18d0f17f748b180549f4c41733, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References:
     - 58d033d3df625dc439dd084eb2218321: {fileID: 861943821}
@@ -15863,7 +15865,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.10026761
+  m_Intensity: 0.1663169
   m_Range: 0.75
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -19284,7 +19286,7 @@ Transform:
   m_GameObject: {fileID: 1894635787}
   serializedVersion: 2
   m_LocalRotation: {x: 0.069652356, y: -0.80349666, z: 0.053429663, w: 0.5888013}
-  m_LocalPosition: {x: -0.883, y: 1.382, z: 3.625}
+  m_LocalPosition: {x: -0.904, y: 1.38, z: 3.712}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
