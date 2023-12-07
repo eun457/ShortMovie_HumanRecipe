@@ -3061,25 +3061,7 @@ MonoBehaviour:
     m_BlendOutDuration: 0
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -5304,9 +5286,9 @@ MonoBehaviour:
     m_DisplayName: W_2-53-1_1
   - m_Version: 1
     m_Start: 55.83078221976757
-    m_ClipIn: 0
+    m_ClipIn: 4.352551113565767
     m_Asset: {fileID: 189169562394172476}
-    m_Duration: 20.9
+    m_Duration: 14.459970469772827
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4409499380017092839}
     m_EaseInDuration: 0
@@ -5350,14 +5332,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 2.8099704697728214
+    m_PostExtrapolationTime: 9.25
     m_PreExtrapolationTime: 0
     m_DisplayName: W_2-55~56-1
   - m_Version: 1
     m_Start: 79.5407526895404
-    m_ClipIn: 0
+    m_ClipIn: 1.3925806437929396
     m_Asset: {fileID: -6418977067977934563}
-    m_Duration: 26.466666666666665
+    m_Duration: 25.074086022873725
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4409499380017092839}
     m_EaseInDuration: 0
@@ -5419,14 +5401,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 7.149999999999977
+    m_PostExtrapolationTime: 8.542580643792917
     m_PreExtrapolationTime: 0
     m_DisplayName: W_2-57~58-1
   - m_Version: 1
     m_Start: 113.15741935620704
-    m_ClipIn: 0
+    m_ClipIn: 3.1728047306338993
     m_Asset: {fileID: -8184495448333697674}
-    m_Duration: 36.6
+    m_Duration: 33.4271952693661
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4409499380017092839}
     m_EaseInDuration: 0
@@ -5488,14 +5470,14 @@ MonoBehaviour:
     m_Recordable: 0
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
-    m_PostExtrapolationTime: 31.37423300743106
+    m_PostExtrapolationTime: 34.547037738064944
     m_PreExtrapolationTime: 0
     m_DisplayName: W_2-60-62-2
   - m_Version: 1
     m_Start: 181.1316523636381
-    m_ClipIn: 0
+    m_ClipIn: 2.3183476363618922
     m_Asset: {fileID: 4025482595368169688}
-    m_Duration: 22.666666666666668
+    m_Duration: 18.887166949113237
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4409499380017092839}
     m_EaseInDuration: 0
