@@ -3131,8 +3131,8 @@ MonoBehaviour:
   m_Tracks:
   - {fileID: -1833719050791947634}
   - {fileID: -3152488005013465187}
-  - {fileID: 4658825787900019931}
   - {fileID: -8524518104295766915}
+  - {fileID: 4658825787900019931}
   - {fileID: -2799718839538929459}
   - {fileID: 8179432314665054939}
   m_FixedDuration: 0
@@ -3534,9 +3534,9 @@ MonoBehaviour:
     m_DisplayName: 2-50-1
   - m_Version: 1
     m_Start: 23.766666666666666
-    m_ClipIn: 0
+    m_ClipIn: 0.03333333333333499
     m_Asset: {fileID: -8483173126357092439}
-    m_Duration: 5.4
+    m_Duration: 5.366666666666665
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1081969680151855870}
     m_EaseInDuration: 0
