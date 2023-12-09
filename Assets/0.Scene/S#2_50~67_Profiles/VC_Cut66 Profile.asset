@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: Cut55
+  m_Name: VC_Cut66 Profile
   m_EditorClassIdentifier: 
   components:
-  - {fileID: 894079097291716081}
---- !u!114 &894079097291716081
+  - {fileID: 2645328575081513478}
+--- !u!114 &2645328575081513478
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29,7 +29,7 @@ MonoBehaviour:
   active: 1
   quality:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 3
   focusMode:
     m_OverrideState: 1
     m_Value: 2
@@ -47,16 +47,16 @@ MonoBehaviour:
     m_Value: 1
   farFocusStart:
     m_OverrideState: 1
-    m_Value: 4.5
+    m_Value: 1.00001
   farFocusEnd:
     m_OverrideState: 1
-    m_Value: 10
+    m_Value: 11.1
   m_NearSampleCount:
     m_OverrideState: 1
     m_Value: 8
   m_NearMaxBlur:
     m_OverrideState: 1
-    m_Value: 7
+    m_Value: 0
   m_FarSampleCount:
     m_OverrideState: 1
     m_Value: 14
