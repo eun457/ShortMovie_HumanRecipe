@@ -809,7 +809,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1470717681}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &34494368
 GameObject:
@@ -7965,7 +7965,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 1
-  m_BoundingSphereOverride: {x: 0.33333334, y: 7.7, z: 50.704506, w: -2.0814453e+31}
+  m_BoundingSphereOverride: {x: 8.21e-43, y: 7.1e-44, z: 0, w: -1.3044739e+32}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -20098,7 +20098,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 28987327}
   - {fileID: 2092967713}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -31017,3 +31016,4 @@ SceneRoots:
   - {fileID: 1785768533}
   - {fileID: 874370915}
   - {fileID: 101894799}
+  - {fileID: 28987327}
