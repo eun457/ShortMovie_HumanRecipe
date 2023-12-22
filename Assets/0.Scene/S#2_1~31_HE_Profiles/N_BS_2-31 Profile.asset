@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: VC_noah_Look Profile
+  m_Name: N_BS_2-31 Profile
   m_EditorClassIdentifier: 
   components:
-  - {fileID: 4614120805712154458}
---- !u!114 &4614120805712154458
+  - {fileID: 5484925285705927055}
+--- !u!114 &5484925285705927055
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,16 +41,16 @@ MonoBehaviour:
     m_Value: 0
   nearFocusStart:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   nearFocusEnd:
     m_OverrideState: 1
-    m_Value: 1.61
+    m_Value: 2.7
   farFocusStart:
     m_OverrideState: 0
-    m_Value: 7
+    m_Value: 10
   farFocusEnd:
     m_OverrideState: 0
-    m_Value: 10
+    m_Value: 20
   m_NearSampleCount:
     m_OverrideState: 1
     m_Value: 8

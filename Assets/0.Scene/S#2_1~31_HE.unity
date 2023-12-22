@@ -12631,6 +12631,7 @@ GameObject:
   - component: {fileID: 927339602}
   - component: {fileID: 927339604}
   - component: {fileID: 927339603}
+  - component: {fileID: 927339605}
   m_Layer: 0
   m_Name: N_BS_2-31
   m_TagString: Untagged
@@ -12721,6 +12722,23 @@ MonoBehaviour:
         m_Calls: []
   m_LegacyBlendHint: 0
   m_ComponentOwner: {fileID: 1777815554}
+--- !u!114 &927339605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927339601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FocusTracksTarget: 0
+  m_FocusTracking: 0
+  m_FocusTarget: {fileID: 0}
+  m_FocusOffset: 0
+  m_Profile: {fileID: 11400000, guid: 3d560590c460b86429588beebde30809, type: 2}
 --- !u!1 &933820014
 GameObject:
   m_ObjectHideFlags: 0
@@ -32806,7 +32824,7 @@ ConfigurableJoint:
   m_Anchor: {x: 0, y: 1, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -4.043255, y: 3.6754143, z: 3.2657895}
+  m_ConnectedAnchor: {x: -3.6844006, y: 3.2567997, z: 3.4179}
   serializedVersion: 3
   m_SecondaryAxis: {x: 0, y: 1, z: 0}
   m_XMotion: 0
