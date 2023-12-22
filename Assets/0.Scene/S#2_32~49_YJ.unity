@@ -1894,7 +1894,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 2.7782938
+  m_Intensity: 6.313155
   m_Range: 24.93
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -20648,6 +20648,7 @@ GameObject:
   - component: {fileID: 1894635788}
   - component: {fileID: 1894635790}
   - component: {fileID: 1894635789}
+  - component: {fileID: 1894635791}
   m_Layer: 0
   m_Name: VC_noah_Look
   m_TagString: Untagged
@@ -20738,6 +20739,23 @@ MonoBehaviour:
         m_Calls: []
   m_LegacyBlendHint: 0
   m_ComponentOwner: {fileID: 1898602759}
+--- !u!114 &1894635791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1894635787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FocusTracksTarget: 0
+  m_FocusTracking: 0
+  m_FocusTarget: {fileID: 0}
+  m_FocusOffset: 0
+  m_Profile: {fileID: 11400000, guid: 804ebc13a0c8b89489375849e238d6fe, type: 2}
 --- !u!1 &1898602758
 GameObject:
   m_ObjectHideFlags: 3
